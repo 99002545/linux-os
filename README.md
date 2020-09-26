@@ -5,6 +5,10 @@ all:
 	gcc food.c -pthread -o all
 clean:
 
+to run:
+make
+./all
+
 description of my code:
 
 I implement the semaphore and mutex in my code.
